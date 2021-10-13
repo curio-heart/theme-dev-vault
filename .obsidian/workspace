@@ -13,6 +13,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "4131457aed614fa4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Theme Colors.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -60,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dc8e195d9054c62a",
@@ -121,7 +133,7 @@
             }
           },
           {
-            "id": "a0a40c9e9f0316e8",
+            "id": "802f30ffc3bf3f47",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -133,14 +145,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 137
+    "width": 137,
+    "collapsed": true
   },
   "active": "598745921f9ee652",
   "lastOpenFiles": [
     "Theme Colors.md",
+    "README.md",
     "How To/Use the developer tools.md",
     "How To/Target fullscreen mode.md",
-    "README.md",
     "Markdown Syntax.md",
     "Embeds.md",
     "Headings.md",
